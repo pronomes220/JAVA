@@ -4,3 +4,4 @@ ESTUDOS DE JAVA
 ## salvando git 0.2
 * comando git push
 * comando git pull
+* comando git fecth
